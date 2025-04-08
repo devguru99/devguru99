@@ -227,6 +227,36 @@ counting of visitors to this page in this section started from June 12, 2022
 
 ---
 
+## 🚦 Profile Traffic
+
+  <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devguru99&label=Profile%20views&color=0e75b6&style=flat" alt="devguru99" /> </p> -->
+
+![Visitors](https://moe-counter-krfg.onrender.com/get/@devguru99?theme=rule34)
+
+![Visitors](https://moe-counter-krfg.onrender.com/get/@devguru99?theme=gelbooru-h)
+
+## 🚀 Developer Activity
+
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=devguru99&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=devguru99&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=FFB000&currStreakLabel=FFB000" />
+    <img align="center" src="https://streak-stats.demolab.com?user=devguru99&theme=buefy&hide_border=true&date_format=j%20M%5B%20Y%5D&currStreakNum=FFB000&currStreakLabel=FFB000" alt="devguru99's GitHub Streak" />
+  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devguru99/devguru99/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devguru99/devguru99/output/github-snake.svg" />
+  <img alt="devguru99's GitHub Contribution Heatmap" src="https://raw.githubusercontent.com/devguru99/devguru99/output/github-snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devguru99/devguru99/dsaStats/dsa-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devguru99/devguru99/dsaStats/dsa-stats.svg" />
+  <img alt="Dmytro's DSA Stats" src="https://raw.githubusercontent.com/devguru99/devguru99/dsaStats/dsa-stats.svg" />
+</picture>
+
+---
+
 ## _If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use._
 
 Would you like to meet me?
