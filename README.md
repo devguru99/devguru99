@@ -32,12 +32,7 @@ You have stayed on my page for:
     <img src="https://visitor-badge.laobi.icu/badge?page_id=devguru99" alt="visitors"/>   
 </p>
 
-I am 🧙 Full-Stack Software Engineer / Web designer and 🏆 Open Source lover
-
-Welcome to my page; on my Github, you can find:
-
-- Projects created by me
-- Projects contributed by me
+I am 🧙 Senior Software Engineer / Web designer (IT Consultant) and 🏆 Open Source lover
 
 _I am open to new opportunities/contributions._
 
@@ -141,14 +136,14 @@ _I am open to new opportunities/contributions._
 
 ## Personal stats:
 
-#### With over 9 years of experience and 5+ years of education in Computer Science, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
+#### Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Rust, this role focuses on creating scalable, efficient, and secure applications.
 
 <details>
   <summary>Highlights / Proficiencies / Interests / Believes</summary>
 
 Highlights:
 
-- ⭐ 6+ years of professional experience in full lifecycle development
+- ⭐ 5+ years of professional experience in full lifecycle development
 - ⭐ Delivered over 25+ projects
 - ⭐ Worked with over 7+ companies from startup to enterprise level
 - ⭐ Worked on innovative and cutting-edge projects
@@ -159,8 +154,8 @@ Highlights:
 Proficiencies:
 
 - 📚 JavaScript, TypeScript, Node.js with Serverless and Containers and Microservices architecture
-- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
-- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
+- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel + Strapi
+- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare + Laravel
 - 📚 Angular, RxJS, NgRx
 - 📚 Svelte and Stencil + Storybook + Web Components
 - 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
@@ -168,9 +163,7 @@ Proficiencies:
 - 📚 Go lang, Move lang, Rust
 - 📚 HTML5/CSS3 + Canvas + WebGL + Animation
 - 📚 Agile, Scrum, Kanban
-- 📚 Web2/Web3 startups
 - 📚 Interested in Cryptography (cryptocurrency and blockchain)
-- 📚 Team Leadership
 - 📚 Project Leadership
 
 
