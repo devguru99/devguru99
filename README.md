@@ -224,7 +224,7 @@ counting of visitors to this page in this section started from June 12, 2022
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=devguru99&label=Profile%20views&color=0e75b6&style=flat" alt="devguru99" /> </p> -->
 
-![Visitors](https://moe-counter-krfg.onrender.com/get/@devguru99?theme=rule34)
+<!-- ![Visitors](https://moe-counter-krfg.onrender.com/get/@devguru99?theme=rule34) -->
 
 ![Visitors](https://moe-counter-krfg.onrender.com/get/@devguru99?theme=gelbooru-h)
 
