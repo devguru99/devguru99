@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 </div>
 <div align="center" style="padding: 10px; background: #111; border: 8px solid #555; border-radius: 16px; box-shadow: 0 0 20px rgba(0,0,0,0.6); max-width: 1000px;">
-  <img src="https://github.com/devguru99/devguru99/blob/main/city.gif?raw=true" style="width:100%; height:auto; border-radius: 8px; aspect-ratio: 16 / 9;" />
+  <img src="https://github.com/devguru99/devguru99/blob/main/city.gif?raw=true" loading="lazy" style="width:100%; height:auto; border-radius: 8px; aspect-ratio: 16 / 9;" />
 </div>
 
 <p align="center">
