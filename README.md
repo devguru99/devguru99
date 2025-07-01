@@ -133,6 +133,12 @@ _I am open to new opportunities/contributions._
 ## Github stats:
 
 <p align="center">
+  <a href="https://github.com/devguru99/GitHub-Language-Stats">
+    <img src="https://github.com/devguru99/GitHub-Language-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+    <img src="https://github.com/devguru99/GitHub-Language-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  </a>
+</p>
+<p align="center">
     <a href="https://github.com/devguru99">
       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devguru99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </a>
